@@ -5,7 +5,7 @@
 
 [![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=XueshiQiao&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://agora.io"><img src="https://img.shields.io/badge/dynamic/json?color=099dfd&labelColor=002550&style=flat-square&label=Agora-RTC&query=%24.usage&url=https%3A%2F%2Fconsole-open.agoralab.co%2Fopen-api%2Fv1%2Fbadge%2Fproject%2Fe1a3d5d3824d03e62a90514dcd1de31e%3A27599fb430fa3abffd&link=https%3A%2F%2Fagora.io" alt="badge" /></a>
 
 <!--
 **XueshiQiao/XueshiQiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
