@@ -5,11 +5,10 @@
 
 **Projects I'm working on:**
 
-
+• [HyperCapslock](https://github.com/XueshiQiao/HyperCapslock) - Make your capslock powerful (macOS & Windows) <br>
 • [PastePaw](https://github.com/XueshiQiao/PastePaw) - 🐾 An elegant clipboard history manager for Windows 🐾 <br>
-• [netstat-cat ](https://github.com/XueshiQiao/netstat-cat) - GUI application for netstat for macOS and Windows<br>
-• [GlobalVimLikeNavi](https://github.com/XueshiQiao/GlobalVimLikeNavi) - Make your capslock powerful<br>
-• [Notifier](https://github.com/XueshiQiao/Notifier) - Never miss a AI Agent prompt again<br>
+• [netstat-cat ](https://github.com/XueshiQiao/netstat-cat) - GUI application for netstat (macOS & Windows) <br>
+• [Notifier](https://github.com/XueshiQiao/Notifier) - Never miss a AI Agent prompt again (macOS) <br>
 
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
