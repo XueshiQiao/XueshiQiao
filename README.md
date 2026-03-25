@@ -1,9 +1,9 @@
 ### Welcome !
 
-#### 我的博客 [代码手工艺人](https://xueshi.io)
 
+**Apps I built and use every day:**
 
-**Projects I'm working on:**
+• [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menubar app, Switch your Claude  Code account with clicks, show session and weekly usage<br>
 
 • [HyperCapslock](https://github.com/XueshiQiao/HyperCapslock) - Make your capslock powerful (macOS & Windows) <br>
 • [PastePaw](https://github.com/XueshiQiao/PastePaw) - 🐾 An elegant clipboard history manager for Windows 🐾 <br>
