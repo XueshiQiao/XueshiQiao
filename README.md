@@ -2,10 +2,13 @@
 **Apps I built and use every day:**
 
 • [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menubar app, Switch your Claude  Code account with clicks, show session and weekly usage<br>
+• [AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Modifier+drag to move any window smoothly on macOS, exactly like native speed <br>
 • [HyperCapslock](https://github.com/XueshiQiao/HyperCapslock) - Make your capslock powerful (macOS & Windows) <br>
 • [PastePaw](https://pastepaw.com) - 🐾 An elegant clipboard history manager for macOS & Windows 🐾 <br>
 • [netstat-cat ](https://github.com/XueshiQiao/netstat-cat) - GUI application for netstat (macOS & Windows) <br>
 • [Notifier](https://github.com/XueshiQiao/Notifier) - Never miss a AI Agent prompt again (macOS) <br>
+
+see more on [xueshi.dev](https://xueshi.dev)
 
 **Claude Code Plugins:**
 
