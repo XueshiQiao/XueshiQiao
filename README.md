@@ -10,7 +10,7 @@
 
 see more on [xueshi.dev](https://xueshi.dev)
 
-**Claude Code Plugins:**
+**Claude Code Plugins / SKills:**
 
 • [macos-app-scaffold](https://github.com/XueshiQiao/macos-app-scaffold) - Claude Code plugin to scaffold and enhance production-ready macOS apps <br>
 
