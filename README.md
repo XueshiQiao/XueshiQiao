@@ -14,8 +14,8 @@ see more on [xueshi.dev](https://xueshi.dev)
 
 • [macos-app-scaffold](https://github.com/XueshiQiao/macos-app-scaffold) - Claude Code plugin to scaffold and enhance production-ready macOS apps <br>
 
+<!-- Switch the SVG image based on the current theme, whether dark or light. -->
 <picture> 
-
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season.svg">
   <img alt="GitHub 3D contribution graph" src="profile-3d-contrib/profile-south-season.svg">
