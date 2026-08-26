@@ -13,7 +13,6 @@ see more on [xueshi.dev](https://xueshi.dev)
 **Claude Code Plugins / SKills:**
 
 • [macos-app-scaffold](https://github.com/XueshiQiao/macos-app-scaffold) - Claude Code plugin to scaffold and enhance production-ready macOS apps <br>
-• [appshot](https://github.com/XueshiQiao/appshot) - Claude Code skill to screenshot a specific macOS app window, hidden ones included <br>
 
 <!-- Switch the SVG image based on the current theme, whether dark or light. -->
 <picture> 
