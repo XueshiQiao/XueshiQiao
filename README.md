@@ -1,9 +1,8 @@
 ### Welcome !
 **Apps I built and use every day:**
 
-• [PastePaw](https://pastepaw.com) - 🐾 An elegant clipboard history manager for macOS & Windows 🐾 <br>
+• [PastePaw](https://pastepaw.com) - 🐾 An elegant clipboard history manager for macOS & [Windows](https://github.com/XueshiQiao/PastePaw) 🐾 <br>
 • [QDuo](https://github.com/XueshiQiao/qduo) - Select text in any app, and your own actions appear right at the cursor — translate, polish, search, speak, transform, or ask a model, and put the result straight back. <br>
-• [PastePaw for Win](https://github.com/XueshiQiao/PastePaw) Open Source & Free <br>
 • [AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Modifier+drag to move any window smoothly on macOS, exactly like native speed <br>
 • [HyperCapslock](https://github.com/XueshiQiao/HyperCapslock) - Make your capslock powerful (macOS) <br>
 • [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menubar app, Switch your Claude  Code account with clicks, show session and weekly usage<br>
